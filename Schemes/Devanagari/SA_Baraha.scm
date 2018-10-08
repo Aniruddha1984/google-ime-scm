@@ -89,7 +89,7 @@ class VowelSigns {
   au ौ
   ou ौ
 }
-
+~a ॅ
 k क्
 kh ख्
 K ख्
